@@ -55,4 +55,12 @@ export const Container = styled.div`
         margin-left: 50px;
         display: block ;
     }
+
+a{
+text-decoration: none;
+color: #eee;
+
+}
+
+
 `;

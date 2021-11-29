@@ -12,6 +12,7 @@ export default createGlobalStyle`
     body {
         -webkit-font-smoothing: antialiased;
         background-color: #21316B;
+       
     }
 
     body, input, button {
@@ -45,12 +46,14 @@ background-color: #21316B;
         list-style: none;
         position: relative;
         background-color: #3D3D94;
+        
         }
 
         .menu ul li{
           width: 150px;
           float: left;
           padding: 5px;
+         
 
           }
         
@@ -70,7 +73,7 @@ background-color: #21316B;
             display: flex;
             flex-shrink: 9;
             align-items: center;
-  
+         
           
           }
           .menu a{
@@ -78,7 +81,7 @@ background-color: #21316B;
             padding: 0px;
             margin: 0px;
             text-decoration: none;
-            
+           
             background-color: #3D3D94;
             color: white;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -88,7 +91,7 @@ background-color: #21316B;
      
         
         .menu ul ul{
-        
+        z-index: 1;
         position: absolute;
         visibility: hidden;
         }
@@ -97,8 +100,8 @@ background-color: #21316B;
         
         }
         .menu ul ul li{
-          float: none;
-         
+          float:none;
+       
         }
         
         .menu a:hover {
@@ -122,6 +125,12 @@ background-color: #21316B;
           font-size: 22px;
           text-decoration: none;
         }
+
+#h1p{
+
+  
+}
+
 
 
 `

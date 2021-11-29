@@ -1,11 +1,12 @@
 import { Button, Card, ImgProd } from "../../styledComponents/Home/styles";
 
+
 function CardProd () {
 
     return(
         <Card>
             <ImgProd />
-            <Button>Comprar</Button>
+            <Button><a  href="/produto">Comprar</a></Button>
         </Card>
     );
 }

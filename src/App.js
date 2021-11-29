@@ -8,8 +8,10 @@ import GlobalStyle from "./styles/global";
 function App() {
 
   return (
-    <>
+    <> 
       <LogoHeader />
+      
+      
       <Body />
       <Footer />
       <GlobalStyle />

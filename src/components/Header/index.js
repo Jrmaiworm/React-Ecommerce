@@ -24,10 +24,10 @@ function Header () {
                     </li>
                     <li class="li"><a href="/sobre">Sobre</a></li>
                     <li class="li"><a href="/contato">Contato</a></li>
-                    <li class="li"><a href="https://www.tiktok.com/@serrablocks"><img width="30px" src="../Assets/SerraBlocks/tiktokColor.png" alt=""/></a></li>
-                    <li class="li"><a href="https://www.instagram.com/serrablocks?r=nametag"><img width="25px" src="../Assets/SerraBlocks/instagramColor.png" alt=""/></a></li>
-                    <li class="li"><a href="https://www.facebook.com/fabricadetijolosrj/"><img width="25px" src="../Assets/SerraBlocks/facebook.png" alt=""/></a></li>
-                    <li class="li"><a href="https://www.youtube.com/watch?v=ZRIW6PdEEh8"><img width="25px" src="../Assets/SerraBlocks/youtube.png" alt=""/></a></li>
+                    <li class="li"><a href="https://www.tiktok.com/@serrablocks"><img width="30px" src="https://serrablocks.netlify.app/Assets/SerraBlocks/tiktokColor.png" alt=""/></a></li>
+                    <li class="li"><a href="https://www.instagram.com/serrablocks?r=nametag"><img width="25px" src="https://serrablocks.netlify.app/Assets/SerraBlocks/instagramColor.png" alt=""/></a></li>
+                   
+                   
                 </ul>
               </nav>
             </div>
