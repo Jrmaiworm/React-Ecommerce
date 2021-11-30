@@ -10,8 +10,6 @@ function App() {
   return (
     <> 
       <LogoHeader />
-      
-      
       <Body />
       <Footer />
       <GlobalStyle />
