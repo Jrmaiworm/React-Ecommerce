@@ -1,0 +1,72 @@
+ /* css da pagina contatos */
+   
+   form{
+     margin: 40px 50px 50px;
+     padding: 20px;
+     background-color: #3D3D94;
+     
+     
+   }
+   
+   form label, form legend {
+     text-transform: uppercase;
+     font-weight: bold;
+     color: white;
+     display: block;
+     font-size: 20px;
+     margin: 40px 0px 20px;
+     border: tomato;
+     box-shadow: tomato;
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: initial;
+   }
+   
+   .cadastro{
+     text-align: initial;
+   }
+   #Contatos{
+     font-size: 40px;
+     text-align: center;
+     
+   }
+   
+   #horario{
+   text-align: start;
+   align-items: start;
+   }
+   
+   .enviar {
+     width: 30%;
+     margin: 30px;
+     padding: 15px 0;
+     background: #C74A0A;
+     color: white;
+     font-weight: bold;
+     font-size: 18px;
+     border: none;
+     border-radius: 5px;
+     transition: 1s all;
+     cursor: pointer;    
+     
+   }
+   .enviar:hover{
+     background: red;
+     transform: scale(1.2);
+   }
+   #botao{
+     text-align: start;
+   }
+   footer {
+     text-align: start;
+     padding: 40px 0;
+   }
+   .copyright {
+     padding: 20px;
+     color: #FFFFFF;
+     font-size: 15px;
+    text-align: start;
+   }
+   
+   .linha{
+    border: black 2px solid;  
+   }
