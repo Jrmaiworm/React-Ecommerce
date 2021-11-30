@@ -22,7 +22,7 @@ function Contato() {
                 <Button>Email</Button>
             </Link>
             <Link to="/sobre">
-                <Button>Senha</Button>
+                <Button>Senha </Button>
             </Link>
         </>
     )
